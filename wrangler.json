@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "d1-template-a",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "4a6af4ea-9f2e-4dde-9298-8e2a9ff85c9f",
+      "database_name": "d1-template-d1-a"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
